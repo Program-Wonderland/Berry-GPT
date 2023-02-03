@@ -1,0 +1,5 @@
+torch
+nltk
+transformers
+getpass4
+tqdm
